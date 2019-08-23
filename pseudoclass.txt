@@ -1,0 +1,10 @@
+span{
+color:blue;
+}
+
+span: hover;
+
+span:active;
+span:focus;
+span:focus-within;
+span:visited:  
